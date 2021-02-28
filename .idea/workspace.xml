@@ -19,13 +19,16 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/demo" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74d4a617-c411-4aee-abbe-d8a7a22c8a56" name="Default Changelist" comment="" />
+    <list default="true" id="74d4a617-c411-4aee-abbe-d8a7a22c8a56" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/hometask.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hometask.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +37,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="boots_buttons" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614514824270</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="master_merge">
+      <created>1614515667718</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614515667718</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,20 +104,30 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bub" />
-    <option name="LAST_COMMIT_MESSAGE" value="bub" />
+    <MESSAGE value="master_merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="master_merge" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="907" y="278" key="CommitChangelistDialog2" timestamp="1614514823892">
+    <state x="907" y="278" key="CommitChangelistDialog2" timestamp="1614515667369">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="907" y="278" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1614514823892" />
+    <state x="907" y="278" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1614515667369" />
+    <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog" timestamp="1614515976063">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1614515976063" />
     <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1614515587934">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1614515587934" />
+    <state x="92" y="92" width="2376" height="1216" key="ShowDiffWithBranchDialog" timestamp="1614515976063">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="ShowDiffWithBranchDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1614515976063" />
     <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1614515114707">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

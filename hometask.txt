@@ -1,3 +1,13 @@
+ОТЛИЧИЯ:
+Merge branch 'buttons' into demo
+1ebbb726 Andrew Khodzhakhanov <j2me@j2me.ws> on 29.06.2016 at 2:29
+origin/demo
+
+Merge branch 'boots' into release
+13e0611d Andrew Khodzhakhanov <j2me@j2me.ws> on 29.06.2016 at 0:55
+In 1 branch: origin/demo
+
+CHANGES:
 Changing README
 
 add hometask.txt
