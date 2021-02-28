@@ -1,0 +1,57 @@
+Changing README
+
+add hometask.txt
+
+ipige
+ipige committed 2 minutes ago
+
+Merge branch 'boots_buttons'
+
+ipige
+ipige committed 6 minutes ago
+
+Merge remote-tracking branch 'origin/hat'
+
+ipige
+ipige committed 6 minutes ago
+
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+
+ipige
+ipige committed 4 hours ago
+
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+
+ipige
+ipige committed 4 hours ago
+
+Commits on Jun 29, 2016
+fix readme
+
+@MobDev-Hobby
+MobDev-Hobby committed on 29 Jun 2016
+
+dots
+
+@MobDev-Hobby
+MobDev-Hobby committed on 29 Jun 2016
+
+README added
+
+@MobDev-Hobby
+MobDev-Hobby committed on 29 Jun 2016
+
+boots
+
+@MobDev-Hobby
+MobDev-Hobby committed on 29 Jun 2016
+
+heat added
+
+@MobDev-Hobby
+MobDev-Hobby committed on 29 Jun 2016
+
+init
+
+@MobDev-Hobby
+MobDev-Hobby committed on 29 Jun 2016
